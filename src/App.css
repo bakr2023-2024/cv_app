@@ -1,0 +1,9 @@
+input {
+  display: block;
+  margin: 1rem;
+}
+#container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
